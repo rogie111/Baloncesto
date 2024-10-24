@@ -3,25 +3,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Baloncesto</title>
-    <style>
-      body {
-        color: white;
-        background-color: #333;
-        font-family: Arial, sans-serif;
-  }
-      h1 {
-      color: #ffffff;
-  }
-      h2 {
-      color: #ffffff;
-  }
-      h3 {
-      color: #ffffff;
-  }
-      a{
-        color: #b3d4fc;
-      }
-  </style>
 </head>
 
   <body>
